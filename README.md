@@ -34,7 +34,7 @@ rv32i_single_cycle_fixed/
   mem/
     program.mem
   docs/
-    program_assembly.txt
+    Relátorio_Jones_Nambundo
 ```
 
 ## Como simular com Icarus Verilo
